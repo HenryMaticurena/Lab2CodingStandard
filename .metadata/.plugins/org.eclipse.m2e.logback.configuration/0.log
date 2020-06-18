@@ -1,1 +1,10 @@
 2020-06-18 14:13:01,825 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-18 15:22:37,382 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-18 15:23:58,338 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.espol.edu:labcodingstandards:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandardsSI2\pom.xml.
+2020-06-18 15:24:00,273 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CodingStandardsSI2/src/main/java
+2020-06-18 15:24:00,277 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CodingStandardsSI2/src/test/java
+2020-06-18 15:24:04,679 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2020-06-18 15:24:17,957 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-18 15:24:17,964 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandardsSI2\src\main\resources
+2020-06-18 15:24:17,976 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-18 15:24:18,060 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandardsSI2\src\test\resources
