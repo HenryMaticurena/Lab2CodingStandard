@@ -51,3 +51,494 @@
 2020-06-18 15:49:23,041 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-06-18 15:49:23,043 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
 2020-06-18 15:49:23,072 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-18 15:49:23,076 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-18 15:49:54,536 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-18 15:50:22,637 [Worker-4: Launching CodingStandard] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-18 15:50:22,641 [Worker-4: Launching CodingStandard] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-18 16:09:52,403 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-18 16:09:52,407 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-18 16:09:52,415 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-18 16:09:52,421 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 14:18:26,125 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-21 15:30:24,356 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 15:30:24,363 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 15:30:24,371 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 15:30:24,375 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 15:37:15,805 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 15:37:15,809 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 15:37:15,820 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 15:37:15,821 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 15:38:17,426 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 15:38:17,429 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 15:38:17,434 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 15:38:17,436 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 15:44:31,229 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 15:44:47,623 [Worker-38: Launching CodingStandard (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 15:44:47,633 [Worker-38: Launching CodingStandard (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B ReportBefore
+2020-06-21 15:45:47,012 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 15:46:49,874 [Worker-34: Launching CodingStandard (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 15:46:49,875 [Worker-34: Launching CodingStandard (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 18:59:59,476 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 18:59:59,479 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 18:59:59,493 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 18:59:59,495 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:08:26,083 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:08:26,085 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:08:26,089 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:08:26,091 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:13:31,040 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:13:31,041 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:13:31,046 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:13:31,048 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:15:47,898 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:15:47,901 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:15:47,904 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:15:47,907 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:18:21,628 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:18:21,630 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:18:21,638 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:18:21,640 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:19:29,371 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @25269692ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-06-21 19:19:37,551 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.29.v20200521; built: 2020-05-27T11:26:53.365Z; git: 77c232aed8a45c818fd27232278d9f95a021095e; jvm 1.8.0_251-b08
+2020-06-21 19:19:37,664 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2020-06-21 19:19:37,665 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2020-06-21 19:19:37,669 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2020-06-21 19:19:37,796 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@676e263b{/help,null,AVAILABLE}
+2020-06-21 19:19:37,938 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1605332b{HTTP/1.1, (http/1.1)}{127.0.0.1:55637}
+2020-06-21 19:19:37,939 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @25278265ms
+2020-06-21 19:19:37,940 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 726000ms
+2020-06-21 19:22:12,592 [Worker-59: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:22:12,599 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:22:12,602 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:22:12,605 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:22:12,608 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:23:43,788 [Worker-59: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:23:43,795 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:23:43,798 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:23:43,802 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:23:43,805 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:24:17,060 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 19:24:44,443 [Worker-59: Launching CodingStandard (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 19:24:44,444 [Worker-59: Launching CodingStandard (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 19:28:50,914 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 19:28:57,948 [Worker-63: Launching CodingStandard (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 19:28:57,949 [Worker-63: Launching CodingStandard (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 19:28:59,833 [Worker-55: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:28:59,855 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:28:59,857 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:28:59,863 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:28:59,865 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:30:34,888 [Worker-63: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:30:34,898 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:30:34,906 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:30:34,924 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:30:34,926 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:30:41,128 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 19:30:44,377 [Worker-61: Launching CodingStandard (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 19:30:44,378 [Worker-61: Launching CodingStandard (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 19:37:52,929 [Worker-67: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:37:52,940 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:37:52,946 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:37:52,958 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:37:52,960 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:38:09,368 [Worker-67: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:38:09,392 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:38:09,394 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:38:09,399 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:38:09,402 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:38:23,224 [Worker-67: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:38:23,230 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:38:23,232 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:38:23,236 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:38:23,238 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:38:41,940 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 19:38:45,543 [Worker-55: Launching CodingStandard (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 19:38:45,544 [Worker-55: Launching CodingStandard (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 19:40:14,973 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:40:14,998 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:40:15,006 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:40:15,014 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:40:15,016 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:41:54,654 [Worker-67: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:41:54,671 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:41:54,673 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:41:54,676 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:41:54,679 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:42:03,650 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 19:42:06,649 [Worker-65: Launching CodingStandard (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 19:42:06,650 [Worker-65: Launching CodingStandard (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 19:44:16,406 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:44:16,423 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:44:16,426 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:44:16,430 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:44:16,433 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:44:36,205 [Worker-70: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:44:36,221 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:44:36,223 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:44:36,228 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:44:36,230 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:44:47,769 [Worker-70: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:44:47,777 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:44:47,780 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:44:47,788 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:44:47,790 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:44:56,355 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 19:44:59,424 [Worker-55: Launching CodingStandard (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 19:44:59,425 [Worker-55: Launching CodingStandard (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 19:48:36,698 [Worker-72: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:48:36,719 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:48:36,730 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:48:36,742 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:48:36,744 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:49:07,437 [Worker-75: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:49:07,454 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:49:07,459 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:49:07,463 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:49:07,465 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:49:29,768 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:49:29,775 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:49:29,777 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:49:29,783 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:49:29,785 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:49:36,411 [Worker-75: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:49:36,418 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:49:36,419 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:49:36,432 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:49:36,434 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:49:56,607 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:49:56,615 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:49:56,618 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:49:56,622 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:49:56,625 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:50:05,133 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:50:05,138 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:50:05,142 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:50:05,146 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:50:05,148 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:50:15,308 [Worker-75: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:50:15,319 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:50:15,321 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:50:15,325 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:50:15,328 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:50:24,427 [Worker-74: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:50:24,432 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:50:24,435 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:50:24,438 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:50:24,441 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:50:48,701 [Worker-75: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:50:48,708 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:50:48,712 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:50:48,716 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:50:48,719 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:51:00,446 [Worker-72: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:51:00,451 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:51:00,453 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:51:00,458 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:51:00,460 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:51:07,394 [Worker-73: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:51:07,401 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:51:07,403 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:51:07,406 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:51:07,407 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:51:21,279 [Worker-72: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:51:21,312 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:51:21,314 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:51:21,318 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:51:21,321 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:51:26,480 [Worker-74: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:51:26,484 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:51:26,486 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:51:26,489 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:51:26,492 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:51:34,118 [Worker-75: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:51:34,126 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:51:34,128 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:51:34,132 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:51:34,137 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:52:02,224 [Worker-74: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:52:02,228 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:52:02,230 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:52:02,233 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:52:02,235 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:52:45,708 [Worker-74: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:52:45,711 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:52:45,713 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:52:45,716 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:52:45,718 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:52:49,216 [Worker-73: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:52:49,224 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:52:49,230 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:52:49,243 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:52:49,245 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:52:59,532 [Worker-76: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:52:59,536 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:52:59,539 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:52:59,542 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:52:59,544 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:53:12,079 [Worker-74: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:53:12,083 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:53:12,084 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:53:12,097 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:53:12,100 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:53:30,666 [Worker-72: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:53:30,670 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:53:30,673 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:53:30,676 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:53:30,678 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:53:49,375 [Worker-72: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:53:49,381 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:53:49,383 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:53:49,386 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:53:49,388 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:54:34,427 [Worker-72: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:54:34,431 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:54:34,434 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:54:34,436 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:54:34,438 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:54:39,956 [Worker-73: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:54:39,965 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:54:39,967 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:54:39,969 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:54:39,972 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:54:47,790 [Worker-76: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:54:47,798 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:54:47,800 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:54:47,803 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:54:47,805 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:55:13,956 [Worker-73: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:55:13,959 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:55:13,961 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:55:13,964 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:55:13,966 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:55:28,120 [Worker-76: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:55:28,127 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:55:28,129 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:55:28,134 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:55:28,137 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:55:48,276 [Worker-76: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:55:48,282 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:55:48,284 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:55:48,287 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:55:48,289 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:55:52,028 [Worker-73: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 19:55:52,034 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:55:52,036 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 19:55:52,039 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 19:55:52,041 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 19:56:29,170 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 19:56:32,104 [Worker-77: Launching CodingStandard (9)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 19:56:32,104 [Worker-77: Launching CodingStandard (9)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 20:03:04,130 [Worker-72: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:03:04,136 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:03:04,138 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:03:04,140 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:03:04,142 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:03:41,119 [Worker-81: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:03:41,143 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:03:41,146 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:03:41,149 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:03:41,151 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:04:21,859 [Worker-81: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:04:21,865 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:04:21,867 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:04:21,870 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:04:21,872 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:04:29,198 [Worker-79: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:04:29,202 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:04:29,204 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:04:29,207 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:04:29,208 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:10:31,224 [Worker-85: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:10:31,230 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:10:31,233 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:10:31,236 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:10:31,238 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:10:35,137 [Worker-79: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:10:35,145 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:10:35,147 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:10:35,154 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:10:35,157 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:10:38,308 [Worker-87: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:10:38,314 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:10:38,317 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:10:38,320 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:10:38,322 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:13:43,678 [Worker-87: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:13:43,682 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:13:43,685 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:13:43,688 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:13:43,691 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:14:01,051 [Worker-84: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:14:01,055 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:14:01,057 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:14:01,060 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:14:01,062 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:14:10,806 [Worker-84: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:14:10,810 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:14:10,813 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:14:10,816 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:14:10,819 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:14:28,746 [Worker-89: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:14:28,765 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:14:28,767 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:14:28,777 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:14:28,779 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:14:51,731 [Worker-90: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:14:51,737 [Worker-90: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:14:51,739 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:14:51,742 [Worker-90: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:14:51,750 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:15:05,345 [Worker-92: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:15:05,357 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:15:05,359 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:15:05,362 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:15:05,364 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:20:26,704 [Worker-89: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:20:26,709 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:20:26,712 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:20:26,715 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:20:26,717 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:22:04,703 [Worker-91: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:22:04,716 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:22:04,719 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:22:04,726 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:22:04,728 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:22:59,035 [Worker-93: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:22:59,042 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:22:59,044 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:22:59,047 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:22:59,049 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:23:06,945 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 20:23:09,367 [Worker-94: Launching CodingStandard (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 20:23:09,368 [Worker-94: Launching CodingStandard (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 20:26:26,251 [Worker-95: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:26:26,257 [Worker-95: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:26:26,259 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:26:26,262 [Worker-95: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:26:26,264 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:28:02,548 [Worker-95: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:28:02,560 [Worker-95: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:28:02,562 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:28:02,565 [Worker-95: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:28:02,568 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:29:00,494 [Worker-91: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:29:00,500 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:00,501 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:29:00,504 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:00,507 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:29:11,706 [Worker-89: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:29:11,714 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:11,717 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:29:11,719 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:11,722 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:29:20,500 [Worker-95: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:29:20,505 [Worker-95: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:20,507 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:29:20,510 [Worker-95: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:20,512 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:29:31,006 [Worker-89: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:29:31,015 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:31,019 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:29:31,022 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:31,029 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:29:38,912 [Worker-96: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:29:38,916 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:38,917 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:29:38,920 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:38,922 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:29:56,074 [Worker-95: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:29:56,079 [Worker-95: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:56,081 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:29:56,089 [Worker-95: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:29:56,094 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:30:04,799 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 20:30:07,560 [Worker-91: Launching CodingStandard (11)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 20:30:07,560 [Worker-91: Launching CodingStandard (11)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 20:31:48,444 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 20:31:52,487 [Worker-89: Launching CodingStandard (12)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 20:31:52,488 [Worker-89: Launching CodingStandard (12)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 20:33:02,085 [Worker-97: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:33:02,120 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:33:02,122 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:33:02,126 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:33:02,128 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:33:11,655 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 20:33:15,384 [Worker-89: Launching CodingStandard (13)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 20:33:15,384 [Worker-89: Launching CodingStandard (13)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 20:34:04,492 [Worker-96: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:34:04,504 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:34:04,506 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:34:04,509 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:34:04,511 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:37:31,608 [Worker-97: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:37:31,617 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:37:31,619 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:37:31,621 [Worker-97: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:37:31,623 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:38:07,588 [Worker-95: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:38:07,626 [Worker-95: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:38:07,628 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:38:07,637 [Worker-95: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:38:07,639 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:38:13,335 [Worker-101: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:38:13,343 [Worker-101: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:38:13,345 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:38:13,348 [Worker-101: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:38:13,350 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:40:17,335 [Worker-98: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:40:17,342 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:40:17,344 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:40:17,348 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:40:17,350 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:40:26,898 [Worker-98: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:40:26,903 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:40:26,906 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:40:26,909 [Worker-98: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:40:26,911 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:40:35,693 [Worker-103: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:40:35,697 [Worker-103: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:40:35,699 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:40:35,702 [Worker-103: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:40:35,704 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:43:35,658 [Worker-104: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:43:35,664 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:43:35,666 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:43:35,668 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:43:35,670 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:43:43,724 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-06-21 20:43:46,942 [Worker-98: Launching CodingStandard (14)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard
+2020-06-21 20:43:46,943 [Worker-98: Launching CodingStandard (14)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
+2020-06-21 20:48:35,446 [Worker-109: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:48:35,452 [Worker-109: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:48:35,454 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:48:35,457 [Worker-109: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:48:35,460 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:49:22,399 [Worker-110: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:49:22,408 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:49:22,410 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:49:22,412 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:49:22,414 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:49:30,826 [Worker-106: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:49:30,837 [Worker-106: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:49:30,839 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:49:30,842 [Worker-106: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:49:30,844 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:50:21,264 [Worker-106: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:50:21,268 [Worker-106: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:50:21,270 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:50:21,273 [Worker-106: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:50:21,275 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:50:30,906 [Worker-109: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:50:30,913 [Worker-109: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:50:30,916 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:50:30,917 [Worker-109: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:50:30,919 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:51:28,538 [Worker-107: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:51:28,541 [Worker-107: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:51:28,544 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:51:28,546 [Worker-107: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:51:28,548 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\test\resources
+2020-06-21 20:51:36,756 [Worker-108: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-06-21 20:51:36,760 [Worker-108: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-21 20:51:36,762 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard\src\main\resources
+2020-06-21 20:51:36,774 [Worker-108: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

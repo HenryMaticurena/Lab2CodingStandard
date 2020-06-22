@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandard"/>
 			<item value="C:\Users\Usuario\Desktop\Espol\Semestre 10\Ingenieria Software II\LABS2\Lab2CodingStandard\CodingStandardsSI2"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -12,5 +13,9 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
